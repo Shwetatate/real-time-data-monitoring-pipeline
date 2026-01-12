@@ -24,11 +24,11 @@ This project implements a real-time, event-driven data pipeline that ingests hig
 
 ## Project Status
 - Layer 0: Project foundation – In Progress
- 0.1 Decide primary language (Python / Java)
- 0.2 Create Git repository
- 0.3 Define folder structure (empty folders only)
- 0.4 Write initial README (problem statement + architecture)
- 0.5 Decide local vs cloud-first development (local first)
+ - 0.1 Decide primary language (Python / Java)
+ - 0.2 Create Git repository
+ - 0.3 Define folder structure (empty folders only)
+ - 0.4 Write initial README (problem statement + architecture)
+ - 0.5 Decide local vs cloud-first development (local first)
 
  
 
