@@ -1,0 +1,34 @@
+# Real-Time Event Processing & Analytics Platform
+
+## Overview
+This project implements a real-time, event-driven data pipeline that ingests high-volume events, processes them using streaming logic, stores aggregated metrics, and provides observability through monitoring and dashboards.
+
+## Architecture (High-Level)
+- Event Producers generate structured events
+- Apache Kafka acts as the ingestion and buffering layer
+- Stream processing aggregates events in near real time
+- Aggregated metrics are stored in an analytical database
+- Prometheus monitors system health
+- Grafana visualizes both system and business metrics
+- The system is deployable on cloud infrastructure
+
+## Tech Stack
+- Language: Python
+- Messaging: Apache Kafka
+- Processing: Apache Spark (Structured Streaming)
+- Storage: SQL Database
+- Monitoring: Prometheus
+- Dashboards: Grafana
+- Containerization: Docker
+- Cloud: (Future deployment)
+
+## Project Status
+- Layer 0: Project foundation – In Progress
+ 0.1 Decide primary language (Python / Java)
+ 0.2 Create Git repository
+ 0.3 Define folder structure (empty folders only)
+ 0.4 Write initial README (problem statement + architecture)
+ 0.5 Decide local vs cloud-first development (local first)
+
+ 
+
